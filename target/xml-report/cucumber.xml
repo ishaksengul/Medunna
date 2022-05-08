@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="16.148">
+    <testcase classname="Unknown" name="admin API ile dogrulama yapar" time="15.285">
+        <system-out>
+            <![CDATA[Given kullanici gerekli items icin path params ayarlamalarini yapar.........passed
+And kullanici test items olusturmak icin expected datalari olusturur........passed
+And kullanici items icin request gonderir ve response alir..................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
